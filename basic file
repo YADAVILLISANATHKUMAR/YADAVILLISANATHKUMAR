@@ -4,4 +4,17 @@ https://docs.google.com/spreadsheets/d/1ZvagvrQdcEHRN1bzEjaWDXnem-C38WaNqsHUCMo3
 https://www.pavantestingtools.com/p/blog-page.html
 
 
+def equals(a,b,c):
+    if(a==b and b==c):
+        return 3
+    elif (a==b or a==c):
+        return 2
+    else:
+        return 0
+print(equals(3,4,3))
+print(equals(1,1,1))
+print(equals(3,4,1))
+print(equals(1,1,2))
+
+
 https://git-scm.com/download/win
