@@ -89,3 +89,20 @@ The "5 Whys" technique is used as a problem-solving tool to identify the root ca
 4. **Cross-Functional Understanding:** It facilitates cross-functional understanding by involving multiple perspectives in identifying and addressing issues, fostering collaboration and shared problem-solving.
 
 Overall, the 5 Whys method serves as a simple yet effective approach to analyze problems, find their root causes, and implement corrective actions for sustainable solutions.
+.
+
+
+
+Six Sigma follows a structured methodology, often represented by the acronym DMAIC, which stands for Define, Measure, Analyze, Improve, and Control. These five stages outline the sequential steps involved in the Six Sigma process:
+
+1. **Define:** In this initial stage, the project goals, scope, and deliverables are defined. Clear identification of the problem, objectives, stakeholders, and the project's purpose is established. Additionally, the critical-to-quality (CTQ) factors that are vital to meeting customer requirements are outlined.
+
+2. **Measure:** This phase involves quantifying and measuring the current state of the process. Key performance indicators (KPIs) are identified, data is collected, and the process's baseline performance is established. It aims to gather factual information about the process to identify areas for improvement.
+
+3. **Analyze:** The collected data is analyzed in this stage to identify the root causes of issues and inefficiencies within the process. Statistical and analytical tools are utilized to identify patterns, relationships, and potential factors contributing to the problem. The goal is to understand why defects or variations occur.
+
+4. **Improve:** Once the root causes are identified, this stage focuses on implementing solutions and improvements. Strategies are developed to address the identified issues and eliminate defects, aiming to optimize the process. Various improvement techniques are employed to enhance the process and achieve desired outcomes.
+
+5. **Control:** In the final stage, control measures are established to sustain the improvements achieved. Standardized procedures, metrics, and control plans are put in place to monitor the process performance and ensure that the improvements are sustained over time. Continuous monitoring and adjustments are made to prevent regression and maintain the gains achieved.
+
+The DMAIC framework of Define, Measure, Analyze, Improve, and Control provides a systematic and data-driven approach for organizations to identify problems, improve processes, and achieve measurable results in quality and efficiency.
