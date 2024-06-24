@@ -6,4 +6,7 @@ Cetera Financial Group is a leading network of independent broker-dealers offeri
 As the access provisioning team, we are responsible for managing the identity and access of users, ensuring that access is given to financial advisors and other employees as per their roles.
 
 As the access provisioning team, our team doesn't give access or handle certain access, so we forward the case to another team, or else we create a ticket and assign the ticket to the concerned team to resolve the issue or give access to the users.
- 
+
+Solution for this problem statement "we assign the case to exact team then it takes lot of time to resolve the issue of the user"  is having a  Document that  have a which is unhandle by Access queue.​
+
+Document contains the navigation of each issue means from which team we need to assign, or we maintain instructon how to handle the issue of user
