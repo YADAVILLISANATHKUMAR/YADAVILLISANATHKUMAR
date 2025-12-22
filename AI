@@ -18,3 +18,23 @@ Describe the tasks the AI agent would perform, the data it would require, and th
 Identify which Agentic AI core concepts (Perception, Reasoning, Planning) are most relevant to the application.
 Note: "Client information is deemed confidential, so use generic client information instead. For example, ‘Retail Giant,’ ‘Pharma Company,’ ‘Global Bank, etc."
 
+
+
+
+
+
+
+Task Name: Mobile Friendly – Agentic AI Application Analysis
+Selected Business Process: Client Onboarding in a Professional Services Company
+Overview:
+Client onboarding is a critical process for professional services companies such as consulting firms, audit firms, or IT services providers. It involves collecting client requirements, validating documents, performing compliance checks, allocating internal resources, and setting up project workflows. This process is often time-consuming, repetitive, and prone to delays due to manual coordination.
+How Agentic AI Enhances Efficiency and Decision-Making:
+Agentic AI can significantly optimize client onboarding by acting as an autonomous agent that understands goals, analyzes inputs, and takes appropriate actions. By continuously reasoning over client data and business rules, the AI can reduce turnaround time, improve accuracy, and support better decision-making without constant human intervention.
+Tasks Performed by the AI Agent:
+The AI agent would collect generic client information (e.g., “Retail Giant” or “Global Bank”), validate submitted documents, perform compliance and risk checks, recommend suitable service packages, assign internal teams based on availability and expertise, and track onboarding progress. It would require access to structured data such as client profiles, service catalogs, compliance rules, internal resource data, and historical onboarding records.
+Relevant Agentic AI Core Concepts:
+Perception: To interpret client inputs, documents, and system data.
+Reasoning: To evaluate compliance requirements, assess risks, and choose optimal onboarding actions.
+Planning: To sequence tasks such as approvals, resource allocation, and milestone setup.
+Potential Benefits:
+Agentic AI enables faster onboarding, reduced operational costs, improved compliance accuracy, consistent decision-making, and enhanced client experience—making it a powerful tool for professional services firms.
