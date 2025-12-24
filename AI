@@ -120,3 +120,14 @@ Three ethical considerations.
 Why each one matters.
  A short way to address each risk.
 Compliance Note: "Client information is deemed confidential, so use generic client information instead. For example, ‘Retail Giant,’ ‘Pharma Company,’ ‘Global Bank, et
+
+
+
+
+When introducing Generative AI into daily business workflows, it is important to address key ethical considerations.
+1. Data Privacy:
+AI systems often process large amounts of data, which may include sensitive business or client information (e.g., a Global Bank or Retail Giant). If not handled properly, this can lead to data leaks or misuse. Risk management: Use data anonymization, access controls, and ensure AI tools comply with data protection policies.
+2. Fairness and Bias:
+Generative AI can unintentionally reflect biases present in training data, leading to unfair outcomes, such as biased recommendations or decisions. This can harm employees, customers, or partners. Risk management: Regularly test AI outputs for bias and use diverse, representative training data.
+3. Explainability and Transparency:
+If AI decisions cannot be explained, teams may not trust or correctly use them, especially in regulated industries like a Pharma Company. Risk management: Choose AI tools that provide clear explanations and maintain human oversight for critical decisions.
