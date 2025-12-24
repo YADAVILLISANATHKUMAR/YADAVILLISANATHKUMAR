@@ -166,3 +166,11 @@ It’s essential to address key ethical considerations to ensure responsible use
 
 
 Clear and well-written submission that effectively explains the three key ethical considerations, why they matter, and how to manage each risk. The response is structured, relevant, and aligns well with Responsible AI principles, with only minor tightening needed for conciseness.
+
+
+
+Learner's Submission:
+
+Data Privacy and Security Why it matters: Generative AI models often require large datasets for training or fine-tuning. If employees input proprietary code, sensitive client information, or protected intellectual property into public AI tools, that data may become part of the model’s permanent training set, leading to data leaks or regulatory non-compliance Algorithmic Fairness and Bias Why it matters: AI models are trained on historical data that may contain societal biases regarding race, gender, or age. If these models are used to assist in hiring, performance reviews, or customer service, they may inadvertently automate and scale discrimination, leading to reputational damage and legal liability. Transparency and Explainability Why it matters: Generative AI often functions as a "black box," making it difficult to understand how it reached a specific conclusion or generated a specific piece of content. In a business context, being unable to explain a decision to a stakeholder or auditor can erode trust and make it difficult to correct errors or "hallucinations."
+
+
